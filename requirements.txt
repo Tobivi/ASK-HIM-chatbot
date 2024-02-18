@@ -3,5 +3,5 @@ streamlit_chat
 streamlit_extras
 hugchat
 Pillow
-openai
+openai==0.28
 python-dotenv
