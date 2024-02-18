@@ -5,3 +5,4 @@ hugchat
 Pillow
 openai
 dotenv
+-m pip install --upgrade pip' command
