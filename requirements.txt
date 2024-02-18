@@ -3,3 +3,4 @@ streamlit_chat
 streamlit_extras
 hugchat
 Pillow
+openai
