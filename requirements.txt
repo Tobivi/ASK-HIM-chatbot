@@ -4,5 +4,4 @@ streamlit_extras
 hugchat
 Pillow
 openai
-dotenv
--m pip install --upgrade pip' command
+python-dotenv
