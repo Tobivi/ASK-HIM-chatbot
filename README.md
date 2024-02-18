@@ -1,4 +1,4 @@
-# Ask Buddy - Streamlit Chatbot Application
+# Ask Him - Streamlit Chatbot Application
 
 
 ## Overview
@@ -11,11 +11,11 @@
 - User-friendly input interface.
 - AI-generated responses based on user prompts.
 - Circular profile image display with user name.
-- Designed by [Ankush Mulkar].
+- Designed by Oduyebo Oluwatobi victor.
 
 ## Getting Started
 
-To run the Ask Buddy application locally, follow these steps:
+To run the Ask Him application locally, follow these steps:
 
 1. Clone this repository to your local machine.
 
@@ -47,4 +47,4 @@ HugChat: A chatbot library used for generating AI responses.
 Pillow: A Python Imaging Library to handle profile image cropping.
 Streamlit Extras: Additional Streamlit components for customization.
 ## Credits
-Application Designed By Ankush Mulkar.
+Application Designed By Oduyebo oluwatobi victor.
