@@ -4,3 +4,4 @@ streamlit_extras
 hugchat
 Pillow
 openai
+dotenv
